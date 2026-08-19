@@ -1,2 +1,3 @@
-# dsl
-quick bi artifact dsl
+# bi-dsl
+
+QuickBI AI Dashboard DSL Docs
